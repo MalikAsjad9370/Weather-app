@@ -1,4 +1,3 @@
-# Weather-app
 # 🌦️ Weather App
 
 A simple and elegant Weather App built using **HTML**, **CSS**, and **JavaScript**. This project allows users to search for any city and get real-time weather information using a public weather API.
